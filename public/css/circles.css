@@ -1,0 +1,13 @@
+
+body, html {
+ height: 100%;
+ margin: 0;
+  background-image:url('/images/ch.gif');
+  background-size: cover;
+  background-position: center;
+}
+
+canvas {
+	width: 100%;
+	height: 100%;
+}
